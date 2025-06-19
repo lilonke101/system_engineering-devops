@@ -1,3 +1,4 @@
+#!/bin/bash
 # 0x00. Shell, Basics
 
 This project covers the basics of the Linux shell, including:
